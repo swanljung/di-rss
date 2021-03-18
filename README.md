@@ -1,8 +1,7 @@
 # di-rss
 
-Simple page that loads the rss-feed from di.se/rss
-
-
+Simple page that loads the rss-feed from di.se/rss.
+Programmed with nodejs, express, moment, nodemon, path and rss-parser.
 
 ## Getting Started
 
