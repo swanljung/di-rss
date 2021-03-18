@@ -18,3 +18,4 @@ Simple page that loads the rss-feed from di.se/rss
 ### Executing program
 
 * npm run dev
+* site should be running on http://localhost:3000/
